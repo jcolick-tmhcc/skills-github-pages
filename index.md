@@ -1,4 +1,4 @@
 ---
-GitHub Skills
+title: "GitHub Skills"
 ---
 
